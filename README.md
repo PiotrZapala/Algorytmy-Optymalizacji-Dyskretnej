@@ -1,1 +1,1 @@
-# Algorytmy-Optymalizacji-Dyskretnej
+# Algorytmy Optymalizacji Dyskretnej
